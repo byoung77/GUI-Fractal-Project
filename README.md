@@ -22,9 +22,11 @@ This application allows the user to render and explore a variety of fractals inc
 
 ## Example Animations
 
-Zoom into the Mandelbrot set:
+### Mandelbrot Zoom
 
-[Mandelbrot Zoom](movies/fractal_movie_1.mp4)
+<a href="movies/fractal_movie_1.mp4">
+<img src="images/Mandelbrot.png" width="400">
+</a>
 
 Fractal from Newton's Method:
 
