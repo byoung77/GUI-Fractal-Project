@@ -54,6 +54,7 @@ Fractal from Newton's Method:
 ### Build
 
 Clone the repository and run: `make`
+
 This will produce the executable: `Fractals`
 
 ## Running
