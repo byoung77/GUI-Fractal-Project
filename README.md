@@ -2,6 +2,8 @@
 
 An interactive fractal generator written in **C** using the **GTK+3** graphics toolkit.
 
+![Rainbow Mandelbrot](images/Rainbow_Mand.png)
+
 This application allows the user to render and explore a variety of fractals including the **Mandelbrot set**, **Julia sets**, and other fractals generated from user-defined complex functions. The program provides an interactive GUI for adjusting parameters, colors, and rendering options.
 
 ---
