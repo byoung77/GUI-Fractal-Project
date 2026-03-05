@@ -24,7 +24,7 @@ Zoom into the Mandelbrot set:
 
 [movies/fractal_movie_1.mp4](movies/fractal_movie_1.mp4)
 
-Newton fractal animation:
+Fractal from Newton's Method:
 
 [movies/fractal_movie_2.mp4](movies/fractal_movie_2.mp4)
 
