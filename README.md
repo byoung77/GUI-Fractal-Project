@@ -9,11 +9,11 @@ This application allows the user to render and explore a variety of fractals inc
 ## Example Fractals
 
 | Mandelbrot | Julia |
-|------------|-------|
+|-------------------------|-------------------------|
 | ![](images/Mandelbrot.png) | ![](images/Julia.png) |
 
 | Rainbow Mandelbrot | Reversed Generic Fractal |
-|--------------------|-------------------------|
+|-------------------------|-------------------------|
 | ![](images/Rainbow_Mand.png) | ![](images/Reversed_Generic_Fractal.png) |
 
 ---
