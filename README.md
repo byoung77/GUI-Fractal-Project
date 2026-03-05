@@ -24,13 +24,19 @@ This application allows the user to render and explore a variety of fractals inc
 
 ### Mandelbrot Zoom
 
+<p align="center">
 <a href="movies/fractal_movie_1.mp4">
 <img src="images/Mandelbrot.png" width="400">
 </a>
+</p>
 
-Fractal from Newton's Method:
+### Animated Fractal from Newton's Method
 
-[Newton-Raphson Animation](movies/fractal_movie_2.mp4)
+<p align="center">
+<a href="movies/fractal_movie_2.mp4">
+<img src="images/newton_thumbnail.png" width="400">
+</a>
+</p>
 
 ---
 
